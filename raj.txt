@@ -1,3 +1,5 @@
 this is a git hub test
 
 how do i commit? 
+
+i have now changed something 
